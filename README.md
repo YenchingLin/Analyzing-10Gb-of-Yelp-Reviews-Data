@@ -11,7 +11,7 @@ We will analyze a subset of Yelp's business, reviews and user data. This dataset
 
 * Create Cluster and Notebook in AWS EMR
 ![cluster_iamge](assets/cluster_configuration.png)
-![Notebook_iamge](assets/Notebook_configuration.png)
+![Notebook_iamge](assets/notebook_configuration.png)
 
 
 ## Installation and Initial Setup
